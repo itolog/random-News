@@ -1,0 +1,28 @@
+body{
+  background: #777;
+}
+ul{
+ list-style: none;
+}
+.main{
+  background: #000;
+  margin-top:20%;
+
+}
+.content{
+  padding-top: 20px;
+  min-height: 120px;
+}
+.content__bottom{
+  padding: 10px 10px;
+}
+/* btn-gen */
+#btn-gen{
+  cursor: pointer;
+ 
+}
+.footer{
+  position: absolute0;
+  bottom: 0;
+  color: black;
+}
